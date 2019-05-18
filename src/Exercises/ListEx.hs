@@ -1,4 +1,4 @@
-module ListEx where
+module Exercises.ListEx where
 
 -- suffixes of type list a -» list list a that takes a
 -- list xs and returns a list of all the suffixes of xs in decreasing order of length.

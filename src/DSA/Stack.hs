@@ -1,4 +1,4 @@
-module Stack where
+module DSA.Stack where
 
 -- A stack is a list, but i am deliberately creating a new list here in the form of stack... for the sake of... practice
 

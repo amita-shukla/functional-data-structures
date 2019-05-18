@@ -1,4 +1,4 @@
-module RoseTree where
+module DSA.RoseTree where
 
 -- A multiway tree or rose tree, is a data structure having a root,
 -- and unbounded number of branches per node
